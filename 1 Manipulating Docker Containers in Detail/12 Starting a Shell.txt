@@ -1,0 +1,4 @@
+Starting a Shell:
+==================
+
+* docker exec -it <container-id> /bin/bash
