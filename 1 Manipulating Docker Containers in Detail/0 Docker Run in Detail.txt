@@ -1,0 +1,4 @@
+Creating and Running a container from an image:
+================================================
+
+docker run <image-name>
