@@ -1,0 +1,11 @@
+Container Lifecycle:
+====================
+
+* docker run  = docker create + docker start
+
+docker create <image-name>
+docker run <container-id>
+
+docker create hello-world
+docker start -a <container-id>
+
