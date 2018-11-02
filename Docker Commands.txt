@@ -1,0 +1,42 @@
+Docker commands:
+================
+
+* docker --version
+* docker --help
+* docker login
+* docker pull ubuntu
+* docker run ubuntu
+* docker build -t MyubuntuImage .   - Customly building image
+* docker conatiner logs
+* docker conatiner kill
+* docker conatiner rm
+* docker conatiner run
+* docker conatiner start
+* docker ps
+* docker ps -a
+* docker push narayanants/imagename
+* docker images
+* docker tag mycustomubuntu narayanants/mycustomubuntu
+* docker push narayanants/mycustomubuntu
+* docker start containerid
+* docker stop containerid
+* docker kill containerid - Forcefully kill container
+* docker rm <container>
+* docker rmi <imageid>
+* docker run --rm -p 3000:3000  --name "MyDemoApp"
+* docker exec -it <containerid> /bin/bash
+* docker commit <containerid> narayanants/mycustomubuntu - Creates a new image of the local conatiner which was edited earlier
+* docker export --output="latest.tar" <containerid>
+* docker import /home/edureka/Downloads/demo.tar
+* docker compose - docker-compose build |  docker-compose up - Build using docker.yaml
+* docker swarm init -advertise-addr 192.168.1.100 
+* docker swarm join
+* docker swarm join-token
+* docker swarm leave
+* docker service ls ps scale stop logs rm
+* docker system prune - Removes all stopped containers from system. 
+
+
+
+
+
