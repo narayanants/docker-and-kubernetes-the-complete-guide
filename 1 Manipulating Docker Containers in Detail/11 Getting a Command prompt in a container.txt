@@ -1,0 +1,4 @@
+Getting a command prompt in container:
+=======================================
+
+docker exec -it <container-id> /bin/bash
