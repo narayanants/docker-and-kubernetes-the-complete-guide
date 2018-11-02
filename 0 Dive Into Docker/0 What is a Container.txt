@@ -5,4 +5,4 @@ What is a container?:
     * Control Groups - Limit amount of resources used per process.
 	* They belong to Linux.
 
-    Node.js => Kernel => Hard Disk (Python2)
+    Node.js => System Call => Kernel => Hard Disk (Python2)
