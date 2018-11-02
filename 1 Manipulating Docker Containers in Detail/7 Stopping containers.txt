@@ -1,0 +1,6 @@
+Stopping Containers:
+=====================
+
+* docker stop <container-id> SIGTERM - Terminate Signal.
+* docker kill <container-id> SIGKILL - Kill the process immediately.
+* 
