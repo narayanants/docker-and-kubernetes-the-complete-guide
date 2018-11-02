@@ -1,0 +1,4 @@
+Executing commands inside running conatiners:
+==============================================
+
+* docker exec -it <container-id> /bin/bash
