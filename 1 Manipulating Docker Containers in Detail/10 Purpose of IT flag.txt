@@ -2,3 +2,5 @@ Purpose of IT Flag:
 ====================
 
 * docker exec -it <container-id> <command>
+
+STDIN STDOUT STDERR
