@@ -1,0 +1,5 @@
+Retriveing Log Outputs:
+=======================
+
+* docker logs <container-id>
+* docker logs dajsdi21edsad
