@@ -1,2 +1,4 @@
 Removing Stopped Conatiners:
 =============================
+
+* docker system prune
