@@ -7,11 +7,11 @@ Docker commands:
 * docker pull ubuntu
 * docker run ubuntu
 * docker build -t MyubuntuImage .   - Customly building image
-* docker conatiner logs
-* docker conatiner kill
-* docker conatiner rm
-* docker conatiner run
-* docker conatiner start
+* docker container logs
+* docker container kill
+* docker container rm
+* docker container run
+* docker container start
 * docker ps
 * docker ps -a
 * docker push narayanants/imagename
@@ -25,7 +25,7 @@ Docker commands:
 * docker rmi <imageid>
 * docker run --rm -p 3000:3000  --name "MyDemoApp"
 * docker exec -it <containerid> /bin/bash
-* docker commit <containerid> narayanants/mycustomubuntu - Creates a new image of the local conatiner which was edited earlier
+* docker commit <containerid> narayanants/mycustomubuntu - Creates a new image of the local container which was edited earlier
 * docker export --output="latest.tar" <containerid>
 * docker import /home/edureka/Downloads/demo.tar
 * docker compose - docker-compose build |  docker-compose up - Build using docker.yaml
