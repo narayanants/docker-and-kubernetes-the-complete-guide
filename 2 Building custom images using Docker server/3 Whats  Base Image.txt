@@ -1,0 +1,4 @@
+What's a Base Image:
+====================
+
+Writing Dockerfile ==  Being given a computer with no OS and being told to install chrome.
