@@ -1,0 +1,7 @@
+Creating Docker Images:
+========================
+
+* We create a DockerFile and send that to Docker Client.
+* Docker File => Docker Client => Docker server => Usable Image.
+"
+
