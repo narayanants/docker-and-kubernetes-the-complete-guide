@@ -2,3 +2,5 @@ Removing Stopped Conatiners:
 =============================
 
 * docker system prune
+
+* Build Cache - any image fetched from Docker Hub.
