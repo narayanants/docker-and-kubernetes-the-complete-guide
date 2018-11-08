@@ -1,0 +1,4 @@
+Tagging an image:
+=================
+
+* docker build -t narayanants/redis-server:latest .
