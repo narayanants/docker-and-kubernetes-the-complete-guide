@@ -1,0 +1,4 @@
+Build process in detail:
+=========================
+
+Creates a container from an image.
