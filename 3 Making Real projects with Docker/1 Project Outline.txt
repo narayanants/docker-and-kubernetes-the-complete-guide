@@ -1,0 +1,3 @@
+Project outline:
+=================
+Setup project structure
