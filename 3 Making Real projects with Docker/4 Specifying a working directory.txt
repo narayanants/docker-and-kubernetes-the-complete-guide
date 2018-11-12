@@ -1,2 +1,4 @@
 Specifying a working directory:
 ================================
+
+WORKDIR /usr/app
