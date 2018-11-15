@@ -1,0 +1,10 @@
+Automatic Container Restarts:
+=============================
+
+Restart Policies:
+==================
+
+    "no" - default (don't restart automatically)
+    always - Restart once crashes
+    on-failure - restart only when status code other than 0
+    unless-stopped - only when stopped
