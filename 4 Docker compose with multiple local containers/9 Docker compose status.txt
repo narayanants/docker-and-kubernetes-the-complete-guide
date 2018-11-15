@@ -1,0 +1,4 @@
+Docker compose status:
+======================
+
+docker-compose ps - Will work only inside working directory. Throws error when used outside working directory
