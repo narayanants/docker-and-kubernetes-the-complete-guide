@@ -1,0 +1,20 @@
+{
+    "name": "visits",
+    "version": "1.0.0",
+    "description": "User Visits",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "keywords": [
+        "User",
+        "Visits"
+    ],
+    "dependencies": {
+        "express": "*",
+        "redis": "2.8.0"
+    },
+    "author": "Narayanan Ts",
+    "license": "MIT"
+}
