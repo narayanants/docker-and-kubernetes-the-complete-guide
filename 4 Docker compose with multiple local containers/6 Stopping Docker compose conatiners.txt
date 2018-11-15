@@ -1,0 +1,9 @@
+Stopping Docker compose containers:
+=====================================
+
+
+docker stop <container-id>
+
+docker-compose up -d => starting a group of containers
+
+docker-compose down => Stopping all grouped containers
