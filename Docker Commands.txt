@@ -37,6 +37,17 @@ Docker commands:
 * docker system prune - Removes all stopped containers from system. 
 
 
+Docker Compose Commands:
+=========================
+
+docker run imagename    =      docker-compose up
+
+docker build .
+docker run imagename     = docker-compose up --build
+
+
+
+
 
 
 
