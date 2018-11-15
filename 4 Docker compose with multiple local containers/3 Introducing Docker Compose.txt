@@ -1,0 +1,13 @@
+Introducing Docker Compose:
+============================
+
+Node Container => Redis Container
+
+docker run redis
+
+Docker Compose:
+================
+
+Used to start up multiple docker containers at the same time.
+Automatically connect them with some form of networking
+
