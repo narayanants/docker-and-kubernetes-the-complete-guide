@@ -1,0 +1,8 @@
+Container Maintenance with compose:
+====================================
+
+docker-compose up --build
+
+docker-compose down
+
+docker ps
