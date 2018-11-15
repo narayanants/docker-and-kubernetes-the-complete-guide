@@ -1,3 +1,6 @@
 Docker Compose files:
 ======================
 
+docker-compose up
+
+docker-compose up --build
