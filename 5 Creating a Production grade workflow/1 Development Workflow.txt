@@ -1,0 +1,5 @@
+Development Workflow:
+======================
+
+Development => Testing => Deployment (Dev Lifecycle)
+
