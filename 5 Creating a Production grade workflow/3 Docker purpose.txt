@@ -1,2 +1,4 @@
 Docker Purpose:
 =================
+
+Docker is not involved in any part of the dev cycle.
