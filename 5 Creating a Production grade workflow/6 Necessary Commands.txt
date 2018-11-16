@@ -1,0 +1,9 @@
+Necessary Commands.txt:
+=======================
+
+npm run start
+
+npm run build
+
+npm run test
+
