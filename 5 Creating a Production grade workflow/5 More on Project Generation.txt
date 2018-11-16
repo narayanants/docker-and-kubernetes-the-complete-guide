@@ -1,2 +1,4 @@
 More on Project Generation:
 ===========================
+
+create-react-app myapp
