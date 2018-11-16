@@ -1,9 +1,9 @@
 Necessary Commands.txt:
 =======================
 
-npm run start
+npm run start - 
 
-npm run build
+npm run build - builds a production version of application.
 
-npm run test - builds a production version of application.
+npm run test - run the test cases of the application.
 
