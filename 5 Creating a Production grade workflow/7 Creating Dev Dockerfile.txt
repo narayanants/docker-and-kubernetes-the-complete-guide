@@ -1,0 +1,4 @@
+Creating Dev Dockerfile:
+=========================
+
+docker build -f Dockerfile.dev .
