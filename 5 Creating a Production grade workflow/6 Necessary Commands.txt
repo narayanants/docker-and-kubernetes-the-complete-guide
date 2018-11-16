@@ -5,5 +5,5 @@ npm run start
 
 npm run build
 
-npm run test
+npm run test - builds a production version of application.
 
