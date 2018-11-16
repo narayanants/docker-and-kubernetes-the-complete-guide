@@ -1,0 +1,7 @@
+Do we need Copy:
+===================
+
+At future, we might now use docker-compose
+
+
+We need to have the copy instruction to copy all the Source code.
