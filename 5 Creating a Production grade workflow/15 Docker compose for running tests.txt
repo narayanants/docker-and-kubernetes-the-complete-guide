@@ -1,0 +1,4 @@
+Docker compose for running tests:
+==================================
+
+docker-compose up --build
