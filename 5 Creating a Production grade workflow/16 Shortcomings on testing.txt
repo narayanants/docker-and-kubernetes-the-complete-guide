@@ -1,0 +1,9 @@
+Shortcoming of testing:
+=======================
+
+
+Attaching the terminal to the STDIN, STDOUT and STDERR of the process of the running container.
+
+npm is the process running.
+
+When we use the docker attach, we are directly attaching to the primary process inside the container.
