@@ -1,0 +1,5 @@
+Multi step Docker builds:
+=========================
+
+
+Use node:alpine => copy package.json => Install dependencies => Run npm run build => Start nginx
