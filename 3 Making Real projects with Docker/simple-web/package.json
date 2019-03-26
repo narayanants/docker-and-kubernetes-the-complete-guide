@@ -13,7 +13,7 @@
     "app"
   ],
   "dependencies": {
-    "express":"*"
+    "express": "*"
   },
   "author": "Narayanan Ts",
   "license": "MIT"
