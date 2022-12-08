@@ -36,6 +36,36 @@ Docker commands:
 * docker service ls ps scale stop logs rm
 * docker system prune - Removes all stopped containers from system. 
 
+    - docker image list
+    - docker system df
+    - docker system info
+    - docker image rm
+    - docker image prune -a - Deletes all unused Images
+    - docker image history
+    - docker image save
+    - docker export
+    - docker image import
+    - docker container commit 
+    - docker network ls
+    - docker network inspect container_id
+    - docker volume inspect container_id
+    - docker volume remove data_vol
+    - docker volume prune
+    
+
+
+    Docker Swarm:
+    ============
+
+     docker service create --mode=global --replicas=100 nodejs
+     docker service rm firstservice
+     docker swarm init --autolock=true
+     docker system info | grep -i swarm
+     docker node ls
+     docker node inspect manager1 --pretty
+     docker node promote manager1
+     docker node demote manager1
+
 
 Docker Compose Commands:
 =========================
