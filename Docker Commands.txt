@@ -51,32 +51,6 @@ Docker commands:
     - docker volume inspect container_id
     - docker volume remove data_vol
     - docker volume prune
-    
-
-
-    Docker Swarm:
-    ============
-
-     docker service create --mode=global --replicas=100 nodejs
-     docker service rm firstservice
-     docker swarm init --autolock=true
-     docker system info | grep -i swarm
-     docker node ls
-     docker node inspect manager1 --pretty
-     docker node promote manager1
-     docker node demote manager1
-
-
-Docker Compose Commands:
-=========================
-
-docker-compose up --build
-docker-compose down
-docker run imagename    =      docker-compose up
-docker build .
-docker run imagename     = docker-compose up --build
-docker build -f Dockerfile .
-docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app <image_id>
 
 
 
