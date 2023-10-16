@@ -1,4 +1,4 @@
-FROM centos:7
+FROM ubuntu:latest
 LABEL maintainer="Your Name <contact@techiescamp.com>"
 RUN yum -y update
 WORKDIR /app
