@@ -69,6 +69,18 @@ CMD:
 	- A running image is called a container
 
 
+RUN - Runs the command inside the container
+COPY - Copy contents from host to container
+ADD - Copies a file/directory from host or remote URL to the container
+FROM - Specifies the base image 
+WORKDIR - sets the working directory inside the container 
+EXPOSE - Makes the port available to the container
+ENV - sets the environmental variable in the container
+CMD  - Sets the command to be run when the container starts
+ENTRYPOINT -  Sets the entrypoint for the container
+
+
+
 
 
 
